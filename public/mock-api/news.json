@@ -1,0 +1,8 @@
+{
+  "source": "news",
+  "generatedAt": "2026-03-13T10:00:00Z",
+  "items": [
+    { "id": 1, "title": "Frontend caching improves resilience" },
+    { "id": 2, "title": "Offline-first UX gains popularity" }
+  ]
+}

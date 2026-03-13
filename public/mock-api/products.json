@@ -1,0 +1,9 @@
+{
+  "source": "products",
+  "generatedAt": "2026-03-13T10:00:00Z",
+  "items": [
+    { "id": 1, "name": "Laptop", "price": 699 },
+    { "id": 2, "name": "Keyboard", "price": 59 },
+    { "id": 3, "name": "Mouse", "price": 29 }
+  ]
+}

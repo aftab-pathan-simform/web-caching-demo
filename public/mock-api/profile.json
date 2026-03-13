@@ -1,0 +1,9 @@
+{
+  "source": "profile",
+  "generatedAt": "2026-03-13T10:00:00Z",
+  "user": {
+    "id": 101,
+    "name": "Demo User",
+    "role": "Frontend Developer"
+  }
+}
